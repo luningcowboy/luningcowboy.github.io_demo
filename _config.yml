@@ -9,7 +9,7 @@ blog:
     name: [cowboy]                                                # 博客名称
     description:  [Freedom]                                       # 博客描述
     title:                                               # 网页标题
-    url:                                                 # 博客地址
+    url: https://github.com/luningcowboy                                                # 博客地址
     duoshuo: [2257241]                                            # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
