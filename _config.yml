@@ -14,7 +14,7 @@ blog:
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name: [陆宁]                                               # 作者名称
+    name: [最后的牛仔]                                               # 作者名称
     email: https://luningcowboy@gmail.com                                              # 邮箱地址
     weibo:                                               # 微博地址
     github: https://github.com/luningcowboy                                              # GitHub地址
