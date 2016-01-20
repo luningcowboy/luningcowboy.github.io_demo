@@ -9,14 +9,14 @@ date: 2016-01-19
 ## 输出
 *code*
 
-{% highlight bash linenos %}
+{% highlight python linenos %}
   print "Hello,Python"
 {% endhighlight %}
 
 ## 多行语句
 开发过程中，有的语句可能过长，那么，我们可能需要将这些语句分割到几行，下面就是python中如何实现.
 
-{% highlight bash linenos %}
+{% highlight python linenos %}
 item_one = 10
 item_two = 20
 item_three = 30
@@ -34,7 +34,7 @@ total = item_one +\
 
 *code*
 
-{% highlight bash linenos %}
+{% highlight python linenos %}
 str1 = "python"
 str2 = 'python'
 str3 = """
@@ -52,7 +52,7 @@ print str3
 - 多行注释
 
 *code*
-{% highlight bash linenos %}
+{% highlight python linenos %}
 #这是单行注释
 """
 这是多行注释，
